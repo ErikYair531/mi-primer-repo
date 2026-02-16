@@ -5,6 +5,9 @@ Un código hecho en Python con las siguientes caracteristicas:
 
 listas.py:
   double(arr) → multiplica cada elemento × 2
+  
   maximum(arr) → devuelve el elemento máximo
+  
   average(arr) → devuelve el promedio
+  
   main() → prueba las funciones con varias listas
